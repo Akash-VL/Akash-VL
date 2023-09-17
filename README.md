@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash V.L</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <br>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FujjawalD07%2FujjawalD07&psig=AOvVaw2bKOXSCQK3Q4HDhDmRPKXK&ust=1695035619582000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICz_tTssYEDFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-vl&label=Profile%20views&color=0e75b6&style=flat" alt="akash-vl" /> </p>
 
 - 💬 Ask me about **C++,Java,CPP,Python,Networking**
